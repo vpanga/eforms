@@ -1,0 +1,440 @@
+{
+    "success": true,
+    "data": {
+        "counties": null,
+        "forms": [
+            {
+                "code": "BOE-58-AH",
+                "name": "Claim for Reassessment Exclusion for Transfer Between Parent and Child",
+                "fullName": "BOE-58-AH: Claim for Reassessment Exclusion for Transfer Between Parent and Child"
+            },
+            {
+                "code": "BOE-58-G",
+                "name": "Claim for Reassessment Exclusion for Transfer From Grandparent to Grandchild",
+                "fullName": "BOE-58-G: Claim for Reassessment Exclusion for Transfer From Grandparent to Grandchild"
+            },
+            {
+                "code": "BOE-58-H",
+                "name": "Affidavit of Cotenant Residency",
+                "fullName": "BOE-58-H: Affidavit of Cotenant Residency"
+            },
+            {
+                "code": "BOE-60-AH",
+                "name": "Claim of Person(s) at Least 55 Years of Age for Transfer of Base Year Value to Replacement Dwelling",
+                "fullName": "BOE-60-AH: Claim of Person(s) at Least 55 Years of Age for Transfer of Base Year Value to Replacement Dwelling"
+            },
+            {
+                "code": "BOE-60-NR",
+                "name": "Notice of Rescission of Claim to Transfer Base Year Value to Replacement Dwelling",
+                "fullName": "BOE-60-NR: Notice of Rescission of Claim to Transfer Base Year Value to Replacement Dwelling"
+            },
+            {
+                "code": "BOE-62",
+                "name": "Disabled Persons Claim for Transfer of Base Year Value to Replacement Dwelling",
+                "fullName": "BOE-62: Disabled Persons Claim for Transfer of Base Year Value to Replacement Dwelling"
+            },
+            {
+                "code": "BOE-62-A",
+                "name": "Certificate of Disability",
+                "fullName": "BOE-62-A: Certificate of Disability"
+            },
+            {
+                "code": "BOE-63",
+                "name": "Disabled Persons Claim for Exclusion of New Construction",
+                "fullName": "BOE-63: Disabled Persons Claim for Exclusion of New Construction"
+            },
+            {
+                "code": "BOE-63-A",
+                "name": "Claim for Disabled Accessibility Construction Exclusion from Assessment",
+                "fullName": "BOE-63-A: Claim for Disabled Accessibility Construction Exclusion from Assessment"
+            },
+            {
+                "code": "BOE-64",
+                "name": "Claim for Seismic Safety Construction Exclusion from Assessment",
+                "fullName": "BOE-64: Claim for Seismic Safety Construction Exclusion from Assessment"
+            },
+            {
+                "code": "BOE-64-SES",
+                "name": "Initial Purchaser Claim for Solar Energy System New Construction Exclusion",
+                "fullName": "BOE-64-SES: Initial Purchaser Claim for Solar Energy System New Construction Exclusion"
+            },
+            {
+                "code": "BOE-65-CP",
+                "name": "Claim for Transfer of Base Year Value from Qualified Contaminated Property to Replacement Property",
+                "fullName": "BOE-65-CP: Claim for Transfer of Base Year Value from Qualified Contaminated Property to Replacement Property"
+            },
+            {
+                "code": "BOE-65-P",
+                "name": "Claim for Intracounty Transfer of Base Year Value to Replacement Property for Property Damaged or Destroyed in a Governor-Declared Disaster",
+                "fullName": "BOE-65-P: Claim for Intracounty Transfer of Base Year Value to Replacement Property for Property Damaged or Destroyed in a Governor-Declared Disaster"
+            },
+            {
+                "code": "BOE-65-PT",
+                "name": "Claim for Intercounty Transfer of Base Year Value to Replacement Property from Principal Residence Damaged or Destroyed in a Governor-Declared Disaster",
+                "fullName": "BOE-65-PT: Claim for Intercounty Transfer of Base Year Value to Replacement Property from Principal Residence Damaged or Destroyed in a Governor-Declared Disaster"
+            },
+            {
+                "code": "BOE-68",
+                "name": "Claim for Base Year Value Transfer—Acquisition by Public Entity",
+                "fullName": "BOE-68: Claim for Base Year Value Transfer—Acquisition by Public Entity"
+            },
+            {
+                "code": "BOE-121",
+                "name": "Statement of Financial Interest",
+                "fullName": "BOE-121: Statement of Financial Interest"
+            },
+            {
+                "code": "BOE-231-AH",
+                "name": "Welfare Exemption/section 231 Change in Eligibility or Termination Notice",
+                "fullName": "BOE-231-AH: Welfare Exemption/section 231 Change in Eligibility or Termination Notice"
+            },
+            {
+                "code": "BOE-236",
+                "name": "Exemption of Leased Property Used Exclusively for Low-Income Housing",
+                "fullName": "BOE-236: Exemption of Leased Property Used Exclusively for Low-Income Housing"
+            },
+            {
+                "code": "BOE-236-A",
+                "name": "Supplemental Affidavit for BOE-236, Housing—Lower-Income Households",
+                "fullName": "BOE-236-A: Supplemental Affidavit for BOE-236, Housing—Lower-Income Households"
+            },
+            {
+                "code": "BOE-237",
+                "name": "Exemption of Low-Income Tribal Housing ",
+                "fullName": "BOE-237: Exemption of Low-Income Tribal Housing "
+            },
+            {
+                "code": "BOE-237-A",
+                "name": "Supplemental Affidavit for BOE-237, Housing—Lower-Income Households",
+                "fullName": "BOE-237-A: Supplemental Affidavit for BOE-237, Housing—Lower-Income Households"
+            },
+            {
+                "code": "BOE-260",
+                "name": "Certificate and Affidavit for Exemption of Work of Art",
+                "fullName": "BOE-260: Certificate and Affidavit for Exemption of Work of Art"
+            },
+            {
+                "code": "BOE-260-A",
+                "name": "Certificate and Affidavit for Exemption of Certain Aircraft",
+                "fullName": "BOE-260-A: Certificate and Affidavit for Exemption of Certain Aircraft"
+            },
+            {
+                "code": "BOE-260-B",
+                "name": "Claim for Exemption from Property Taxes of Aircraft of Historical Significance",
+                "fullName": "BOE-260-B: Claim for Exemption from Property Taxes of Aircraft of Historical Significance"
+            },
+            {
+                "code": "BOE-261",
+                "name": "Claim for Veterans’ Exemption",
+                "fullName": "BOE-261: Claim for Veterans’ Exemption"
+            },
+            {
+                "code": "BOE-261-D",
+                "name": "Servicemembers Civil Relief Act Declaration",
+                "fullName": "BOE-261-D: Servicemembers Civil Relief Act Declaration"
+            },
+            {
+                "code": "BOE-261-G",
+                "name": "2016 Claim for Disabled Veterans' Property Tax Exemption",
+                "fullName": "BOE-261-G: 2016 Claim for Disabled Veterans' Property Tax Exemption"
+            },
+            {
+                "code": "BOE-261-GNT",
+                "name": "Disabled Veterans’ Exemption Change of Eligibility Report",
+                "fullName": "BOE-261-GNT: Disabled Veterans’ Exemption Change of Eligibility Report"
+            },
+            {
+                "code": "BOE-262-AH",
+                "name": "Church Exemption Claim",
+                "fullName": "BOE-262-AH: Church Exemption Claim"
+            },
+            {
+                "code": "BOE-263",
+                "name": "Lessors' Exemption Claim",
+                "fullName": "BOE-263: Lessors' Exemption Claim"
+            },
+            {
+                "code": "BOE-263-A",
+                "name": "Qualified Lessors' Exemption",
+                "fullName": "BOE-263-A: Qualified Lessors' Exemption"
+            },
+            {
+                "code": "BOE-263-B",
+                "name": "Lessees’ Exemption Claim",
+                "fullName": "BOE-263-B: Lessees’ Exemption Claim"
+            },
+            {
+                "code": "BOE-263-C",
+                "name": "Church Lessors’ Exemption Claim",
+                "fullName": "BOE-263-C: Church Lessors’ Exemption Claim"
+            },
+            {
+                "code": "BOE-264-AH",
+                "name": "College Exemption Claim",
+                "fullName": "BOE-264-AH: College Exemption Claim"
+            },
+            {
+                "code": "BOE-265",
+                "name": "Cemetery Exemption Claim",
+                "fullName": "BOE-265: Cemetery Exemption Claim"
+            },
+            {
+                "code": "BOE-265-NT",
+                "name": "Cemetery Exemption Change in Eligibility or Termination Notice",
+                "fullName": "BOE-265-NT: Cemetery Exemption Change in Eligibility or Termination Notice"
+            },
+            {
+                "code": "BOE-266",
+                "name": "Claim for Homeowners' Property Tax Exemption (English and Spanish)",
+                "fullName": "BOE-266: Claim for Homeowners' Property Tax Exemption (English and Spanish)"
+            },
+            {
+                "code": "BOE-266-E",
+                "name": "Ownership Statement Cooperative Housing Corporation",
+                "fullName": "BOE-266-E: Ownership Statement Cooperative Housing Corporation"
+            },
+            {
+                "code": "BOE-267",
+                "name": "Claim for Welfare Exemption (First Filing)",
+                "fullName": "BOE-267: Claim for Welfare Exemption (First Filing)"
+            },
+            {
+                "code": "BOE-267-A",
+                "name": "Claim for Welfare Exemption (Annual Filing)",
+                "fullName": "BOE-267-A: Claim for Welfare Exemption (Annual Filing)"
+            },
+            {
+                "code": "BOE-267-H",
+                "name": "Welfare Exemption Supplemental Affidavit, Housing—Elderly and Handicapped Families",
+                "fullName": "BOE-267-H: Welfare Exemption Supplemental Affidavit, Housing—Elderly and Handicapped Families"
+            },
+            {
+                "code": "BOE-267-H-A",
+                "name": "Elderly or Handicapped Families, Family Household Income Reporting Worksheet",
+                "fullName": "BOE-267-H-A: Elderly or Handicapped Families, Family Household Income Reporting Worksheet"
+            },
+            {
+                "code": "BOE-267-L",
+                "name": "Welfare Exemption Supplemental Affidavit, Housing—Lower-Income Household",
+                "fullName": "BOE-267-L: Welfare Exemption Supplemental Affidavit, Housing—Lower-Income Household"
+            },
+            {
+                "code": "BOE-267-L-A",
+                "name": "Lower Income Households, Family Household Income Reporting Worksheet",
+                "fullName": "BOE-267-L-A: Lower Income Households, Family Household Income Reporting Worksheet"
+            },
+            {
+                "code": "BOE-267-L1",
+                "name": "Welfare Exemption Supplemental Affidavit, Low-Income Housing Property of Limited Partnership",
+                "fullName": "BOE-267-L1: Welfare Exemption Supplemental Affidavit, Low-Income Housing Property of Limited Partnership"
+            },
+            {
+                "code": "BOE-267-R",
+                "name": "Welfare Exemption Supplemental Affidavit, Rehabilitation—Living Quarters",
+                "fullName": "BOE-267-R: Welfare Exemption Supplemental Affidavit, Rehabilitation—Living Quarters"
+            },
+            {
+                "code": "BOE-267-S",
+                "name": "Religious Exemption",
+                "fullName": "BOE-267-S: Religious Exemption"
+            },
+            {
+                "code": "BOE-268-A",
+                "name": "Public School Exemption",
+                "fullName": "BOE-268-A: Public School Exemption"
+            },
+            {
+                "code": "BOE-268-B",
+                "name": "Free Public Library or Free Museum Claim",
+                "fullName": "BOE-268-B: Free Public Library or Free Museum Claim"
+            },
+            {
+                "code": "BOE-269-AH",
+                "name": "Claim for Veterans' Organization Exemption",
+                "fullName": "BOE-269-AH: Claim for Veterans' Organization Exemption"
+            },
+            {
+                "code": "BOE-269-FIR",
+                "name": "VETERANS' ORGANIZATION EXEMPTION ASSESSOR'S FIELD INSPECTION REPORT",
+                "fullName": "BOE-269-FIR: VETERANS' ORGANIZATION EXEMPTION ASSESSOR'S FIELD INSPECTION REPORT"
+            },
+            {
+                "code": "BOE-270-AH",
+                "name": "Exhibition Exemption Claim From Property Taxes",
+                "fullName": "BOE-270-AH: Exhibition Exemption Claim From Property Taxes"
+            },
+            {
+                "code": "BOE-305-A",
+                "name": "INFORMAL ASSESSMENT REVIEW",
+                "fullName": "BOE-305-A: INFORMAL ASSESSMENT REVIEW"
+            },
+            {
+                "code": "BOE-502-A",
+                "name": "Preliminary Change of Ownership Report",
+                "fullName": "BOE-502-A: Preliminary Change of Ownership Report"
+            },
+            {
+                "code": "BOE-502-AH",
+                "name": "Change of Ownership Statement",
+                "fullName": "BOE-502-AH: Change of Ownership Statement"
+            },
+            {
+                "code": "BOE-502-D",
+                "name": "Change in Ownership Statement, Death of Real Property Owner",
+                "fullName": "BOE-502-D: Change in Ownership Statement, Death of Real Property Owner"
+            },
+            {
+                "code": "BOE-502-G",
+                "name": "Change in Ownership Statement, Oil and Gas Property",
+                "fullName": "BOE-502-G: Change in Ownership Statement, Oil and Gas Property"
+            },
+            {
+                "code": "BOE-502-P",
+                "name": "Possessory Interests Annual Usage Report",
+                "fullName": "BOE-502-P: Possessory Interests Annual Usage Report"
+            },
+            {
+                "code": "BOE-540-S",
+                "name": "Mutual or Private Water Company Property Statement",
+                "fullName": "BOE-540-S: Mutual or Private Water Company Property Statement"
+            },
+            {
+                "code": "BOE-560-A",
+                "name": "Aggregate Production Report",
+                "fullName": "BOE-560-A: Aggregate Production Report"
+            },
+            {
+                "code": "BOE-560-B",
+                "name": "Mining Production Report",
+                "fullName": "BOE-560-B: Mining Production Report"
+            },
+            {
+                "code": "BOE-560-C",
+                "name": "Mining Claim Production Report",
+                "fullName": "BOE-560-C: Mining Claim Production Report"
+            },
+            {
+                "code": "BOE-566-D",
+                "name": "Oil and Dissolved Gas Production Report",
+                "fullName": "BOE-566-D: Oil and Dissolved Gas Production Report"
+            },
+            {
+                "code": "BOE-566-F",
+                "name": "Dry Gas Production, Equipment, New Well, Redrill and Rework Report",
+                "fullName": "BOE-566-F: Dry Gas Production, Equipment, New Well, Redrill and Rework Report"
+            },
+            {
+                "code": "BOE-566-J",
+                "name": "Oil, Gas and Geothermal Personal Property Statement",
+                "fullName": "BOE-566-J: Oil, Gas and Geothermal Personal Property Statement"
+            },
+            {
+                "code": "BOE-566-K",
+                "name": "Annual Oil and Gas Operating Expense Data",
+                "fullName": "BOE-566-K: Annual Oil and Gas Operating Expense Data"
+            },
+            {
+                "code": "BOE-567-D",
+                "name": "Geothermal Production Report",
+                "fullName": "BOE-567-D: Geothermal Production Report"
+            },
+            {
+                "code": "BOE-567-K",
+                "name": "Annual Geothermal Operating Expense Data",
+                "fullName": "BOE-567-K: Annual Geothermal Operating Expense Data"
+            },
+            {
+                "code": "BOE-570-FO1",
+                "name": "Supplementary Schedule to the Business Property Statement—Aircraft Cost Report",
+                "fullName": "BOE-570-FO1: Supplementary Schedule to the Business Property Statement—Aircraft Cost Report"
+            },
+            {
+                "code": "BOE-570-FO2",
+                "name": "Supplementary Schedule to the Business Property Statement—Aircraft Value Computation",
+                "fullName": "BOE-570-FO2: Supplementary Schedule to the Business Property Statement—Aircraft Value Computation"
+            },
+            {
+                "code": "BOE-571-C",
+                "name": "POWER PLANT PROPERTY STATEMENT",
+                "fullName": "BOE-571-C: POWER PLANT PROPERTY STATEMENT"
+            },
+            {
+                "code": "BOE-571-F2",
+                "name": "REGISTERED AND SHOW HORSES OTHER THAN RACEHORSES",
+                "fullName": "BOE-571-F2: REGISTERED AND SHOW HORSES OTHER THAN RACEHORSES"
+            },
+            {
+                "code": "BOE-571-J",
+                "name": "ANNUAL RACEHORSE TAX RETURN",
+                "fullName": "BOE-571-J: ANNUAL RACEHORSE TAX RETURN"
+            },
+            {
+                "code": "BOE-571-J1",
+                "name": "REPORT OF BOARDED RACEHORSES",
+                "fullName": "BOE-571-J1: REPORT OF BOARDED RACEHORSES"
+            },
+            {
+                "code": "BOE-571-K",
+                "name": "HORSE PROPERTY STATEMENT",
+                "fullName": "BOE-571-K: HORSE PROPERTY STATEMENT"
+            },
+            {
+                "code": "BOE-571-M",
+                "name": "MISCELLANEOUS PROPERTY STATEMENT",
+                "fullName": "BOE-571-M: MISCELLANEOUS PROPERTY STATEMENT"
+            },
+            {
+                "code": "BOE-571-P",
+                "name": "Pipeline Property Statement",
+                "fullName": "BOE-571-P: Pipeline Property Statement"
+            },
+            {
+                "code": "BOE-571-RW",
+                "name": "RIGHT-OF-WAY PROPERTY STATEMENT",
+                "fullName": "BOE-571-RW: RIGHT-OF-WAY PROPERTY STATEMENT"
+            },
+            {
+                "code": "BOE-576-D",
+                "name": "VESSEL PROPERTY STATEMENT",
+                "fullName": "BOE-576-D: VESSEL PROPERTY STATEMENT"
+            },
+            {
+                "code": "BOE-576-E",
+                "name": "AFFIDAVIT FOR 4 PERCENT ASSESSMENT OF CERTAIN VESSELS",
+                "fullName": "BOE-576-E: AFFIDAVIT FOR 4 PERCENT ASSESSMENT OF CERTAIN VESSELS"
+            },
+            {
+                "code": "BOE-577",
+                "name": "AIRCRAFT PROPERTY STATEMENT",
+                "fullName": "BOE-577: AIRCRAFT PROPERTY STATEMENT"
+            },
+            {
+                "code": "BOE-577-A",
+                "name": "AIRPORT OPERATIONS REPORT",
+                "fullName": "BOE-577-A: AIRPORT OPERATIONS REPORT"
+            },
+            {
+                "code": "BOE-901-V",
+                "name": "APPLICATION FOR DEDUCTION OF VEHICLES' LICENSE FEES FROM PROPERTY TAX",
+                "fullName": "BOE-901-V: APPLICATION FOR DEDUCTION OF VEHICLES' LICENSE FEES FROM PROPERTY TAX"
+            },
+            {
+                "code": "CAA-FC01",
+                "name": "Change of Mailing Address CAA",
+                "fullName": "CAA-FC01: Change of Mailing Address CAA"
+            },
+            {
+                "code": "CAA-FC02",
+                "name": "Homeowners Exemption Termination CAA",
+                "fullName": "CAA-FC02: Homeowners Exemption Termination CAA"
+            },
+            {
+                "code": "CAA-FC03",
+                "name": "Agent Authorization",
+                "fullName": "CAA-FC03: Agent Authorization"
+            }
+        ]
+    },
+    "errorMessage": "",
+    "errors": []
+}
